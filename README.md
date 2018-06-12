@@ -1,4 +1,4 @@
-# Auto_Service
+# Auto Service
 
 Java Web application for **Auto Service**. Project done after third week of **CodersLab Bootcamp 'Java developer: Web'**
 
